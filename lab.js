@@ -7,6 +7,14 @@
 */
 
 //CODE HERE
+let lovesCode = true;
+console.log(lovesCode);
+if (lovesCode == true) {
+  console.log("I love to code")
+}
+else {
+  console.log("Coding has it's challenges")
+}
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
@@ -15,6 +23,7 @@ var amysBirthYear = 1991
 var brittanisBirthYear = 1986
 
 ////////// PROBLEM 2 //////////
+
 
 /*
   Using an if statement and a comparison operator, create code that will check if Amy or Brittani is older, and then console.log '{name} is older'. Hint: Consider what will happen if they are the same age. Handle this situation.
