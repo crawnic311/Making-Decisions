@@ -286,3 +286,19 @@ switch (letterGrade) {
 */
 
 //Code Here
+for (i = 0; i <= 100; i++) {
+  switch (true) {
+    case i % 5 == 0 && i % 3 == 0:
+      console.log("Devmountain");
+      break;
+    case i % 3 == 0:
+      console.log("Dev");
+      break;
+    case i % 5 == 0:
+      console.log("Mountain");
+      break;
+    default:
+      console.log(i);
+      break;
+  }
+}
