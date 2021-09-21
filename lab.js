@@ -6,7 +6,7 @@
   If it is not, console-log "Coding has it's challenges."
 */
 
-//CODE HERE
+//CODE HERE start here
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
