@@ -65,7 +65,8 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-var firstItem = [0];
+var firstItem = arr[0];
+console.log(firstItem);
 
 ////////// PROBLEM 5 //////////
 /*
@@ -73,6 +74,7 @@ var firstItem = [0];
 */
 
 //Code Here
+
 
 ////////// PROBLEM 6 //////////
 
