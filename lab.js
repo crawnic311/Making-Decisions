@@ -123,7 +123,21 @@ var score = 74
 */
 
 //Code Here
-
+if (score >= 90) {
+  console.log("Your grade is an 'A'");
+}
+else if (score >= 80 && score < 90) {
+  console.log("Your grade is a 'B'");
+}
+else if (score >= 70 && score < 80) {
+  console.log("Your grade is a 'C'");
+}
+else if (score >= 60 && score < 80) {
+  console.log("Your grade is a 'D'");
+}
+else {
+  console.log("Your grade is an 'F'")
+}
 
 ////////// Intermediate Problems //////////
 
